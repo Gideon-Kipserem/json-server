@@ -1,12 +1,58 @@
 {
-  "apiEndpoint" : [
+  "students": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+      "id": "4",
+      "name": "Titus Moindi",
+      "studentId": "1004",
+      "status": "absent",
+      "location": "library",
+      "activity": "chemistry",
+      "time": "6/26/2025, 6:32:38 PM"
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "id": "5",
+      "name": "Faith Kipyegon",
+      "studentId": "1005",
+      "status": "present",
+      "location": "",
+      "activity": "",
+      "time": ""
+    },
+    {
+      "id": "57a6",
+      "name": "Eluid Kipchoge",
+      "studentId": "2443",
+      "status": "absent",
+      "location": "library",
+      "activity": "personal studies",
+      "time": "6/26/2025, 5:54:41 PM"
+    },
+    {
+      "id": "a731",
+      "name": "Gideon Kimaiyo",
+      "studentId": "1004",
+      "status": "absent",
+      "location": "library",
+      "activity": "personal studies",
+      "time": "6/26/2025, 5:54:54 PM"
+    },
+    {
+      "id": "a07b",
+      "name": "Denis Munika",
+      "studentId": "3456",
+      "status": "present",
+      "location": "",
+      "activity": "",
+      "time": ""
+    },
+    {
+      "id": "d7e0",
+      "name": "Oscar Kiprop",
+      "studentId": "6583",
+      "status": "present",
+      "location": "",
+      "activity": "",
+      "time": ""
     }
   ]
 }
