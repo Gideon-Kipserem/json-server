@@ -1,49 +1,20 @@
 {
-  "students": [
+  "goals": [
     {
-      "id": "6099",
-      "name": "Gideon Kimaiyo",
-      "admissionNumber": "6767",
-      "status": "present",
-      "location": "",
-      "activity": "",
-      "time": ""
+      "id": "5801",
+      "name": "Gideon k. kimaiyo",
+      "targetAmount": 60,
+      "savedAmount": 600,
+      "deadline": "2025-07-21",
+      "category": "travel"
     },
     {
-      "id": "be30",
-      "name": "Denis Munika",
-      "admissionNumber": "8989",
-      "status": "present",
-      "location": "",
-      "activity": "",
-      "time": ""
-    },
-    {
-      "id": "6200",
-      "name": "Eluid Kipchoge",
-      "admissionNumber": "4466",
-      "status": "absent",
-      "location": "library",
-      "activity": "personal studies",
-      "time": "6/27/2025, 11:39:27 AM"
-    },
-    {
-      "id": "0b3f",
-      "name": "Oscar Kiprop",
-      "admissionNumber": "4556",
-      "status": "absent",
-      "location": "lab",
-      "activity": "chemistry",
-      "time": "6/27/2025, 11:39:36 AM"
-    },
-    {
-      "id": "ad31",
-      "name": "Titus moindi",
-      "admissionNumber": "7890",
-      "status": "present",
-      "location": "",
-      "activity": "",
-      "time": ""
+      "id": "881a",
+      "name": "Gloria",
+      "targetAmount": 5000,
+      "savedAmount": 400,
+      "deadline": "2025-08-07",
+      "category": "rent"
     }
   ]
 }
